@@ -59,3 +59,4 @@ Valor de salida esperado (real) contra predicción del modelo:
 - `PortafolioImplementacion-E2-MLPC.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo.
 - `PortafolioImplementacion-E2-MLPC.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
 - `PortafolioImplementacion-MLPC.pdf` es el documento PDF exportado del proyecto de Jupyter Notebook.
+- `wine.data` es el archivo con los datos utilizados (se puede utilizar el permalink de este archivo o el link proporcionado en la sección de datos generales).
