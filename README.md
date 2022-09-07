@@ -56,4 +56,6 @@ Valor de salida esperado (real) contra predicción del modelo:
 
 ## Archivos del repositorio
 
-- 
+- `PortafolioImplementacion-E2-MLPC.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo.
+- `PortafolioImplementacion-E2-MLPC.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
+- `PortafolioImplementacion-MLPC.pdf` es el documento PDF exportado del proyecto de Jupyter Notebook.
