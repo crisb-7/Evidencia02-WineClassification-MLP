@@ -5,7 +5,7 @@ Uso de framework o biblioteca de aprendizaje máquina para la implementación de
 Por Cristofer Becerra Sánchez
 ## Datos Generales
 
-- **Dataset**: [Vinos](https://github.com/crisb-7/Evidencia02-WineClassification/blob/bc502b04605e2fd18f3e6b1e3b637e2ea3dc2156/wine.data)
+- **Dataset**: [Vinos](https://raw.githubusercontent.com/crisb-7/WineClassification-MLP/main/wine.data)
 - **Biblioteca**: Scikit-learn
 - **Modelo**: Multi-layer Perceptron Classifier
 - **Número de características**: 13
