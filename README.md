@@ -6,7 +6,7 @@
 
 Por Cristofer Becerra Sánchez
 
-## Sin Framwork
+## Sin Framework
 
 - **Dataset**: [Vinos](https://github.com/crisb-7/Evidencia02-WineClassification/blob/bc502b04605e2fd18f3e6b1e3b637e2ea3dc2156/wine.data)
 - **Algoritmo**: Regresión logística con dos características (Alcohol y Flavonoides).
