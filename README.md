@@ -6,7 +6,7 @@
 
 Por Cristofer Becerra Sánchez
 
-## Sin Framework
+# Sin Framework
 
 - **Dataset**: [Vinos](https://github.com/crisb-7/Evidencia02-WineClassification/blob/bc502b04605e2fd18f3e6b1e3b637e2ea3dc2156/wine.data)
 - **Algoritmo**: Regresión logística con dos características (Alcohol y Flavonoides).
@@ -16,18 +16,18 @@ Por Cristofer Becerra Sánchez
 - **Sensibilidad (Recall) promedio**: 92.53%
 - **F1 promedio**: 91.93%
 
-### Archivos del repositorio
+## Archivos del repositorio
 - `PI-M2-SinFramework.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo SIN framework.
 - `PI-M2-SinFramework.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
 
-## Uso de Framework
+# Uso de Framework
 
 - **Dataset**: [Vinos](https://raw.githubusercontent.com/crisb-7/WineClassification-MLP/main/wine.data)
 - **Biblioteca**: Scikit-learn
 - **Modelo**: Multi-layer Perceptron Classifier
 - **Número de características**: 13
 
-### Archivos del repositorio
+## Archivos del repositorio
 
 - `PortafolioImplementacion-E2-MLPC.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo CON framework.
 - `PortafolioImplementacion-E2-MLPC.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
