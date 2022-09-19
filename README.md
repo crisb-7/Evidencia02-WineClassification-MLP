@@ -1,14 +1,38 @@
-# Portafolio de Implementación TC3006C
+# Portafolio de Implementación TC3006C - Módulo 2
 
-Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.
+**Proyectos presentados**:
+- Técnica de aprendizaje máquina sin el uso de un framework
+- Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.
 
 Por Cristofer Becerra Sánchez
-## Datos Generales
+
+## Sin Framwork
+
+- **Dataset**: [Vinos](https://github.com/crisb-7/Evidencia02-WineClassification/blob/bc502b04605e2fd18f3e6b1e3b637e2ea3dc2156/wine.data)
+- **Algoritmo**: Regresión logística con dos características (Alcohol y Flavonoides).
+- **Random State**: 0
+- **Exactitud promedio**: 94.44%
+- **Precisión promedio**: 91.56%
+- **Sensibilidad (Recall) promedio**: 92.53%
+- **F1 promedio**: 91.93%
+
+### Archivos del repositorio
+- `PI-M2-SinFramework.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo SIN framework.
+- `PI-M2-SinFramework.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
+
+## Uso de Framework
 
 - **Dataset**: [Vinos](https://raw.githubusercontent.com/crisb-7/WineClassification-MLP/main/wine.data)
 - **Biblioteca**: Scikit-learn
 - **Modelo**: Multi-layer Perceptron Classifier
 - **Número de características**: 13
+
+### Archivos del repositorio
+
+- `PortafolioImplementacion-E2-MLPC.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo CON framework.
+- `PortafolioImplementacion-E2-MLPC.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
+- `PortafolioImplementacion-MLPC.pdf` es el documento PDF exportado del proyecto de Jupyter Notebook.
+- `wine.data` es el archivo con los datos utilizados (se puede utilizar el permalink de este archivo o el link proporcionado en la sección de datos generales).
 
 ## Desempeño del modelo
 
@@ -54,9 +78,3 @@ Valor de salida esperado (real) contra predicción del modelo:
 |	1 |	1 |
 | 1 |	1 |
 
-## Archivos del repositorio
-
-- `PortafolioImplementacion-E2-MLPC.ipynb` es el proyecto de Jupyter Notebook donde se desarrolló la implementación del modelo.
-- `PortafolioImplementacion-E2-MLPC.py` es el archivo .py exportado del proyecto de Jupyter Notebook.
-- `PortafolioImplementacion-MLPC.pdf` es el documento PDF exportado del proyecto de Jupyter Notebook.
-- `wine.data` es el archivo con los datos utilizados (se puede utilizar el permalink de este archivo o el link proporcionado en la sección de datos generales).
